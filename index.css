@@ -1,0 +1,17 @@
+body{
+    margin: 1rem;
+}
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+}
+.card{
+    width: 20rem;
+}
+.tab-content{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+}

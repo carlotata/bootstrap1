@@ -1,9 +1,6 @@
 body{
     height: 100%;
     margin: 1rem;
-    background-image:url(bg.jpeg) ;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 header{
     background-color: rgb(202, 202, 202);
